@@ -1,6 +1,6 @@
 # Satellite Image Change Detection with Deep Learning
 Used dataset: https://www.kaggle.com/datasets/mdrifaturrahman33/levir-cd?resource=download
-
+## For More Training and Evaluating Processes : Go to Documentation_ENG.pdf or Documentation_TR.pdf
 This project is a deep learning-based solution designed to detect changes between two satellite images taken at different times. It focuses on identifying changes such as new buildings, demolitions, and natural landscape transformations using the [LEVIR-CD](https://github.com/levircd/LEVIR-CD) dataset.
 
 The model can be used in **three different ways**:
@@ -88,6 +88,7 @@ to interact with the API through the built-in Swagger UI.
 
 ---
 
+
 ## 📌 Notes
 
 - Ensure that your input images follow the same preprocessing format used during training (e.g., size, channels).
@@ -101,3 +102,5 @@ to interact with the API through the built-in Swagger UI.
 <img width="1131" height="811" alt="streamlit_2" src="https://github.com/user-attachments/assets/c2814e0b-0cb1-4d21-ad27-30344b1e71e2" />
 
 <img width="1835" height="972" alt="fastapi" src="https://github.com/user-attachments/assets/d0e895cf-d6e8-46a8-bad1-db3b7bf3f950" />
+
+
